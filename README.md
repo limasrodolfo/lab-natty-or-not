@@ -1,4 +1,3 @@
-```markdown
 # E-book "Mundo das Criptomoedas: Um guia para iniciantes ;)
 
 ## 📒 Descrição
@@ -13,5 +12,4 @@ Solicitar ao gemini que incorpore o papel de um redator para a escrita de um e-b
 Com o prompt de imagem em mão realizei varias geerações de imagens até chegar na imagem que mais me agradou.
 
 ## 🚀 Resultados
-[E-BOOK](/exemplos/MDC - Guia para Iniciantes.pdf)
-```
+- [E-BOOK](/exemplos/MDC%20-%20Guia%20para%20Iniciantes.pdf)
